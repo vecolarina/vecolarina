@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Von Adrian Colarina 👋
-### Python Developer · Odoo ERP Specialist · Healthcare & Business Systems
+### Aspiring Data Analyst · Python Developer · Odoo ERP Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/von-adrian-colarina-8ba74a371)
 [![Email](https://img.shields.io/badge/Email-voncolarina@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:voncolarina@gmail.com)
@@ -13,19 +13,28 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BS Computer Science graduate (Cum Laude)** from the University of Rizal System, currently working as a **Python Developer specializing in Odoo ERP customization** and business process automation.
+I'm a **BS Computer Science graduate (Cum Laude)** from the University of Rizal System, currently **transitioning from ERP/Python development into Data Analysis**.
 
-Less than a year out of college, I've already worked across **two real-world industries** — healthcare and business systems — solving problems with Python, SQL, and process thinking.
+I bring formal computer science training together with real-world experience maintaining production databases and business systems across **two industries** — healthcare and business/ERP systems — and a growing, hands-on skill set in **SQL, Excel, and Power BI**.
 
-- 🔧 **Currently:** Building custom Odoo modules for enterprise clients at Software Farm International Inc.
-- 🏥 **Background:** Healthcare IT at Providence Hospital — automating workflows and managing MSSQL databases
-- 🎯 **Focus:** ERP customization, business automation, and clean backend development
-- 📚 **Learning:** REST APIs, advanced Python patterns, and system architecture
+- 📊 **Now focused on:** Turning raw operational and business data into clear insights and recommendations
+- 🔧 **Background:** Custom Odoo ERP module development and Python automation at Software Farm International Inc.
+- 🏥 **Also:** Healthcare IT at Providence Hospital — MSSQL database integrity and internal systems support
+- 🎯 **Portfolio:** End-to-end retail analytics case study (cleaning → analysis → recommendations)
+- 📚 **Building depth in:** Statistics, data visualization, and analytics tooling
 - 🇵🇭 Based in Angono, Rizal, Philippines
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Data Analysis & BI**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Languages**
 
@@ -38,7 +47,7 @@ Less than a year out of college, I've already worked across **two real-world ind
 
 **ERP & Business Systems**
 
-![Odoo](https://img.shields.io/badge/Odoo_17%2F18-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_17%2F18%2F19-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 **Databases & Reporting**
 
@@ -46,31 +55,43 @@ Less than a year out of college, I've already worked across **two real-world ind
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MS Report Builder](https://img.shields.io/badge/MS_Report_Builder-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-**Tools & Automation**
+**Digital Analytics**
+
+![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com_(Automation)-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
 ```
-🏢 Software Farm International Inc.        Python Developer – Odoo ERP    2025 – Present
-   └── Custom Odoo module development · Client workflow automation · Python backend
+🏢 Software Farm International Inc.        Python Developer – Odoo ERP     Feb 2026 – Aug 2026
+   └── Custom Odoo module development · Client workflow automation · GTM/GA4/Google Ads setup
 
-🏥 Providence Hospital Inc.               IT Application Specialist       2025 – Present
-   └── MSSQL database management · Python automation · Hospital system maintenance
+🏥 Providence Hospital Inc.                IT Application Specialist       Jul 2025 – Feb 2026
+   └── MSSQL database integrity & maintenance · Internal web systems support · Bizbox ERP coordination
 ```
 
 ---
 
 ## 🚀 Projects
 
-> 🔨 **Currently building** — projects coming soon.
-> Focused on Odoo utilities, Python automation tools, and SQL reporting scripts.
-> Watch this space — first repo drops soon.
+### 📈 Retail Sales Performance Analysis
+**[github.com/vecolarina/retail-sales-analysis](https://github.com/vecolarina/retail-sales-analysis)**
+
+An end-to-end data cleaning and analysis case study on 41,189 synthetic transactions across a fictional 5-branch retail chain (12 months of data), built to mirror real-world data quality issues — inconsistent text formatting, mixed date formats, duplicates, and missing values.
+
+- Cleaned and standardized raw data; engineered `Revenue`, `Month`, `Weekday`, and `IsWeekend` fields
+- Analyzed monthly revenue trends, branch performance, category mix, promo effectiveness, and weekday patterns
+- **Key findings:** top branch outperformed the lowest by ~₱1.4M; groceries drove ~38% of total revenue; promo days lifted average daily revenue by ~85%
+- Delivered data-backed recommendations in a Jupyter Notebook with supporting charts
+
+**Tools:** Python (pandas, matplotlib), Jupyter Notebook
 
 ---
 
@@ -97,7 +118,7 @@ Less than a year out of college, I've already worked across **two real-world ind
 
 <div align="center">
 
-*Open to remote Python/Odoo developer roles and freelance ERP projects.*
+*Open to Data Analyst roles, remote Python/Odoo developer positions, and freelance ERP projects.*
 **Let's connect → voncolarina@gmail.com**
 
 </div>
